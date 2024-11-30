@@ -1,0 +1,6 @@
+~ $ https://github.com/ahmettr4/fatihkurankursu.git
+~ $ cdfatihkurankursu.git
+~ $ echo "Hello world" > index.html
+~ $ git add --all
+~ $ git commit -m "Initial commit"
+git push -u origin main
